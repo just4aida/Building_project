@@ -1,0 +1,11 @@
+[33mcommit 684e895861ecc470f64b8b1de91bc4e7a63736e8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: just4aida <just4aida@mail.ru>
+Date:   Tue Aug 22 22:38:57 2023 +0300
+
+    second
+
+[33mcommit b38cdee09bb50a5ddcc7480703e896134f6b96cc[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: just4aida <just4aida@mail.ru>
+Date:   Tue Aug 22 22:29:52 2023 +0300
+
+    first setup

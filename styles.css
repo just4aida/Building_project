@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: "Oswald";
+  src: url("assets/fonts/Oswald/static/Oswald-Medium.ttf");
+}
+body {
+  width: 1920px;
+  height: 3863px;
+}
+.headerBox {
+  width: 1920px;
+  height: 740px;
+  background-image: url(assets/images/background_header.png);
+  display: flex;
+  flex-direction: column;
+  font-family: "Oswald";
+}
+
+.head1 {
+  width: 734px;
+  height: 171px;
+  margin: 192px auto 0 auto;
+  padding: 0 593px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1,
+p {
+  color: white;
+}
+.head1 h1 {
+  font-size: 64px;
+  margin: 0;
+  font-weight: 500;
+}
+
+.head2 {
+  width: 734px;
+  height: 22px;
+  margin: 35px auto;
+  padding: 0 593px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.head2 p {
+  font-size: 18px;
+  margin: 0;
+}
+
+.head3 {
+  width: 1110px;
+  height: 300px;
+  margin: 0 auto;
+  background-color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 190px;
+  height: 186px;
+  margin: 0 30px;
+}
+.text1 {
+  width: 190px;
+  height: 86px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f7654a;
+  font-size: 72px;
+  font-weight: 500;
+  font-family: "Oswald";
+}
+.text2 {
+  width: 190px;
+  height: 43px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: "Oswald";
+}
+.text3 {
+  width: 190px;
+  height: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Oswald";
+}
+main {
+  width: 1920px;
+  height: 681px;
+
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mainDiv {
+  width: 1110px;
+  height: 681px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+head4 {
+  width: 506px;
+  height: 43px;
+  margin-top: 200px;
+}
+h2 {
+  font-size: 36px;
+  font-weight: 500;
+  font-family: "Oswald";
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.images {
+  width: 350px;
+  height: 578px;
+  justify-content: space-around;
+  align-items: center;
+}
+.picture {
+  width: 350px;
+  height: 380px;
+  margin-top: 40px;
+}
+.line {
+  width: 55px;
+  height: 6px;
+  margin-top: 40px;
+}
+
+.arena {
+  width: 142px;
+  height: 29px;
+  margin-top: 15px;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Oswald";
+}
+.paragrph {
+  width: 350px;
+  height: 83px;
+  margin-top: 50px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Oswald";
+}
